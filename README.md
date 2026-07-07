@@ -7,7 +7,7 @@ This repository documents my journey to becoming a Data Scientist.
 ## Skills
 ✅ Python
 ✅ NumPy
-🔄 Pandas
+✅ Pandas
 ⏳ SQL
 ⏳ Machine Learning
 
@@ -24,4 +24,5 @@ This repository documents my journey to becoming a Data Scientist.
 📂 SQL
 📂 DSA
 📂 DBMS
-📂 Projects
+## 📂Projects
+- 📊 Student Performance Dashboard
