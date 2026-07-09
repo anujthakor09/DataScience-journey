@@ -1,5 +1,5 @@
 # Problem:
-Largest Element in Array
+Panlindrome number
 
 # Platform:
 LeetCode #009
